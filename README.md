@@ -32,3 +32,9 @@ Upload `Sayantan.jpg` to `assets/` with exactly that spelling. The image is not 
 This conversion is based on the previously generated website content. Please review entries, dates, URLs, and current roles before publishing. The news file contains a sample welcome message; replace it with genuine announcements. Some paper URLs are Google Scholar search links, not verified DOI URLs.
 
 GitHub Pages automatically processes `_data`, `_includes`, and `_layouts`. Do not add `.nojekyll`.
+
+## October 2026 layout update
+
+Restores the original **navy / teal / warm gold / cream** palette and fixes the alignment of working papers, book chapters, research grants, and doctoral students. Working papers are now full-width entries with consistent title/author spacing and dividers. The content remains editable in `_data/*.yml`.
+
+**Important when replacing an existing Jekyll repository:** GitHub's web uploader does not delete old files. Remove obsolete files such as the old `index.html`, `research.html`, and `.nojekyll` if they remain, since these may override the new `.md` pages. Keep your existing `assets/Sayantan.jpg` photograph.
