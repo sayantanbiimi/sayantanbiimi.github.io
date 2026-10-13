@@ -1,7 +1,0 @@
-title: Sayantan Banerjee | Academic Website
-description: Research in Bayesian statistics, graphical models and high-dimensional inference
-url: "" # Optional: https://YOURUSERNAME.github.io
-baseurl: "" # Leave empty for username.github.io
-markdown: kramdown
-exclude:
-  - README.md
