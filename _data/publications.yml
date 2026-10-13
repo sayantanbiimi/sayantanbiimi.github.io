@@ -1,0 +1,115 @@
+- year: 2026
+  title: Bayesian Inference in High-dimensional models
+  authors: Banerjee, S., Castillo, I. and Ghosal, S.
+  journal: Statistics Surveys, 20, 180–241
+  url: https://scholar.google.com/scholar?q=Bayesian%20Inference%20in%20High-dimensional%20models
+- year: 2026
+  title: 'DP-FedSOFIM: Differentially Private Federated Stochastic Optimization using Regularized Fisher Information
+    Matrix'
+  authors: Nair, S., Sen, T., Sen, M. and Banerjee, S.
+  journal: Transactions on Machine Learning Research
+  url: https://scholar.google.com/scholar?q=DP-FedSOFIM%3A%20Differentially%20Private%20Federated%20Stochastic%20Optimization%20using%20Regularized%20Fisher%20Information%20Matrix
+- year: 2026
+  title: A Leakage Bound for Confidence Sets after Black-Box Selection
+  authors: Banerjee, S.
+  journal: Statistics & Probability Letters, 241, 110957
+  url: https://scholar.google.com/scholar?q=A%20Leakage%20Bound%20for%20Confidence%20Sets%20after%20Black-Box%20Selection
+- year: 2024
+  title: Precision Matrix Estimation under the Horseshoe-like Prior-Penalty Dual
+  authors: Sagar, K., Banerjee, S., Datta, J. and Bhadra, A.
+  journal: Electronic Journal of Statistics, 18(1), 1–46
+  url: https://scholar.google.com/scholar?q=Precision%20Matrix%20Estimation%20under%20the%20Horseshoe-like%20Prior-Penalty%20Dual
+- year: 2024
+  title: Nonparametric Bayes multiresolution testing for high-dimensional rare events
+  authors: Datta, J., Banerjee, S. and Dunson, D. B.
+  journal: Journal of Nonparametric Statistics
+  url: https://scholar.google.com/scholar?q=Nonparametric%20Bayes%20multiresolution%20testing%20for%20high-dimensional%20rare%20events
+- year: 2024
+  title: Maximum a Posteriori Estimation in Graphical Models Using Local Linear Approximation
+  authors: Sagar, K., Datta, J., Banerjee, S. and Bhadra, A.
+  journal: Stat, 13(2), e682
+  url: https://scholar.google.com/scholar?q=Maximum%20a%20Posteriori%20Estimation%20in%20Graphical%20Models%20Using%20Local%20Linear%20Approximation
+- year: 2024
+  title: Evidence Estimation in Gaussian Graphical Models Using a Telescoping Block Decomposition of the Precision
+    Matrix
+  authors: Bhadra, A., Sagar, K., Rowe, D., Banerjee, S. and Datta, J.
+  journal: Journal of Machine Learning Research, 25(295), 1–43
+  url: https://scholar.google.com/scholar?q=Evidence%20Estimation%20in%20Gaussian%20Graphical%20Models%20Using%20a%20Telescoping%20Block%20Decomposition%20of%20the%20Precision%20Matrix
+- year: 2023
+  title: Structure recovery and trend estimation for dynamic network analysis
+  authors: Jiang, X., Livas, S. M., Yin, F., Banerjee, S., Butts, C. T. and Shen, W.
+  journal: Stat, 12(1), e593
+  url: https://scholar.google.com/scholar?q=Structure%20recovery%20and%20trend%20estimation%20for%20dynamic%20network%20analysis
+- year: 2022
+  title: Graph signal de-noising using t-shrinkage priors
+  authors: Banerjee, S. and Shen, W.
+  journal: Journal of Statistical Planning and Inference, 219, 279–305
+  url: https://scholar.google.com/scholar?q=Graph%20signal%20de-noising%20using%20t-shrinkage%20priors
+- year: 2022
+  title: Horseshoe shrinkage methods for Bayesian fusion estimation
+  authors: Banerjee, S.
+  journal: Computational Statistics and Data Analysis, 174, 107450
+  url: https://scholar.google.com/scholar?q=Horseshoe%20shrinkage%20methods%20for%20Bayesian%20fusion%20estimation
+- year: 2022
+  title: 'Role of Multi-resolution Vulnerability Indices in Covid-19 spread: A Case Study in India'
+  authors: Bhattacharya, R., Burman, A., Singh, K., Banerjee, S., Maity, S., Auddy, A., Raut, S. K., Lahoti, S.,
+    Panda, R. M. and Baladandayuthapani, V.
+  journal: BMJ Open, 12(11), e056292
+  url: https://scholar.google.com/scholar?q=Role%20of%20Multi-resolution%20Vulnerability%20Indices%20in%20Covid-19%20spread%3A%20A%20Case%20Study%20in%20India
+- year: 2021
+  title: 'Network-based Modeling of COVID-19 Dynamics: Early Pandemic Spread in India'
+  authors: Bhattacharyya, R., Banerjee, S., Mohammed, S. and Baladandayuthapani, V.
+  journal: Journal of the Indian Statistical Association, 59(2), special issue on spatio-temporal modeling
+  url: https://scholar.google.com/scholar?q=Network-based%20Modeling%20of%20COVID-19%20Dynamics%3A%20Early%20Pandemic%20Spread%20in%20India
+- year: 2020
+  title: Change-point analysis in Financial Networks
+  authors: Banerjee, S. and Guhathakurta, K.
+  journal: Stat, 9(1), e269
+  url: https://scholar.google.com/scholar?q=Change-point%20analysis%20in%20Financial%20Networks
+- year: 2019
+  title: Spectral Clustering via Sparse Graph Structure Learning with application to Proteomic Signaling Networks
+    in Cancer
+  authors: Banerjee, S., Akbani, R. and Baladandayuthapani, V.
+  journal: Computational Statistics and Data Analysis, 132, 46–69
+  url: https://scholar.google.com/scholar?q=Spectral%20Clustering%20via%20Sparse%20Graph%20Structure%20Learning%20with%20application%20to%20Proteomic%20Signaling%20Networks%20in%20Cancer
+- year: 2018
+  title: Personalized Integrated Network Modeling of The Cancer Proteome Atlas
+  authors: Ha, M. J., Banerjee, S., Akbani, R., Liang, H., Mills, G. B., Do, K. A. and Baladandayuthapani, V.
+  journal: Scientific Reports, 8(1), 14924
+  url: https://scholar.google.com/scholar?q=Personalized%20Integrated%20Network%20Modeling%20of%20The%20Cancer%20Proteome%20Atlas
+- year: 2017
+  title: Posterior Convergence Rates for high-dimensional precision matrix estimation using G-Wishart priors
+  authors: Banerjee, S.
+  journal: Stat, 6(1), 207–217
+  url: https://doi.org/10.1002/sta4.147
+- year: 2017
+  title: Discussion of “Sparse graphs using exchangeable random measures” by Francois Caron and Emily Fox
+  authors: Banerjee, S. and Ghosal, S.
+  journal: 'Journal of the Royal Statistical Society: Series B, 79(5), 1343'
+  url: https://scholar.google.com/scholar?q=Discussion%20of%20%E2%80%9CSparse%20graphs%20using%20exchangeable%20random%20measures%E2%80%9D%20by%20Francois%20Caron%20and%20Emily%20Fox
+- year: 2016
+  title: 'DEMARCATE: Density-based Magnetic Resonance Image Clustering for assessing Tumor Heterogeneity in Cancer'
+  authors: Saha, A., Banerjee, S., Kurtek, S., Narang, S., Lee, J., Rao, G., Martinez, J., Bharath, K., Rao, A.U.K.
+    and Baladandayuthapani, V.
+  journal: 'NeuroImage: Clinical, 12, 132–143'
+  url: https://scholar.google.com/scholar?q=DEMARCATE%3A%20Density-based%20Magnetic%20Resonance%20Image%20Clustering%20for%20assessing%20Tumor%20Heterogeneity%20in%20Cancer
+- year: 2015
+  title: Bayesian structure learning in graphical models
+  authors: Banerjee, S. and Ghosal, S.
+  journal: Journal of Multivariate Analysis, 136, 147–162
+  url: https://scholar.google.com/scholar?q=Bayesian%20structure%20learning%20in%20graphical%20models
+- year: 2014
+  title: Fast Bayesian Model Assessment for Non-parametric Additive Regression
+  authors: Curtis, S. M., Banerjee, S. and Ghosal, S.
+  journal: Computational Statistics and Data Analysis, 71, 347–358
+  url: https://www.sciencedirect.com/science/article/pii/S0167947313001850
+- year: 2014
+  title: Posterior convergence rates for estimating large precision matrices using graphical models
+  authors: Banerjee, S. and Ghosal, S.
+  journal: Electronic Journal of Statistics, 8(2), 2111–2137
+  url: https://projecteuclid.org/euclid.ejs/1414588188
+- year: 2014
+  title: Bayesian variable selection in generalized additive partial linear models
+  authors: Banerjee, S. and Ghosal, S.
+  journal: Stat, 3(1), 363–378
+  url: https://doi.org/10.1002/sta4.70
